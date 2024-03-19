@@ -6,7 +6,7 @@ Estrutura do projeto: (Classes utilizadas e suas funções);
 Implantações: (Aplicadas dentro da atividade);
 Versionamento: (Listagem de versões na qual o exercício está);
 Autor(es):
- Lucas Peixoto Nunes, 237190, peixotonlucas@gmail.com.
+ Lucas Peixoto Nunes, 237190, peixotonlucas@gmail.com; Felipe Hennri Leite Lobo, 235104, felipe.lobo.hennri@gmail.com;
 
 Para descrever as ferramentas em pré-requisitos utilize badges para identificar a linguagem que está
 usando ou outras ferramentas. Use como base o link a seguir: https://github.com/Ileriayo/markdown-badges
